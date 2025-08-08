@@ -1,0 +1,25 @@
+{
+  "name": "proyectoarduino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henry-GPU/ProyectoArduino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henry-GPU/ProyectoArduino/issues"
+  },
+  "homepage": "https://github.com/Henry-GPU/ProyectoArduino#readme",
+  "description": "",
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "axios": "^1.11.0",
+    "serialport": "^13.0.0"
+  }
+}
